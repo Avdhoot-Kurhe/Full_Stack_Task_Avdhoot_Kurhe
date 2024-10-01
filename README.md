@@ -34,4 +34,4 @@ open the 2 terminal one for the backend and one for the frontend
 
 ### Prerequisites  
 - Node.js  
-- MongoDB account : change this "mongodb+srv://assignment_user:HCgEj5zv8Hxwa4xO@test-cluster.6f94f5o.mongodb.net/assignment" url to your MongoDB url and database name
+- MongoDB account : change this `mongodb+srv://assignment_user:HCgEj5zv8Hxwa4xO@test-cluster.6f94f5o.mongodb.net/assignment` url to your MongoDB url and database name
